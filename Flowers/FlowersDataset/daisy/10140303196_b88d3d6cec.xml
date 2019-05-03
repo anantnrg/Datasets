@@ -1,0 +1,26 @@
+<annotation>
+	<folder>daisy</folder>
+	<filename>10140303196_b88d3d6cec.jpg</filename>
+	<path>D:\FlowerDatset\daisy\10140303196_b88d3d6cec.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>494</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
