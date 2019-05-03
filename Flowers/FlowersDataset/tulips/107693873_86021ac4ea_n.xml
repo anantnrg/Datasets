@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tulips</folder>
+	<filename>107693873_86021ac4ea_n.jpg</filename>
+	<path>I:\FlowerDatset\tulips\107693873_86021ac4ea_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tulip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>71</ymin>
+			<xmax>293</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
