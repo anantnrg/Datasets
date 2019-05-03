@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dandelion</folder>
+	<filename>13560152823_9da5e48c87_m.jpg</filename>
+	<path>D:\FlowerDatset\dandelion\13560152823_9da5e48c87_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dandelion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>48</ymin>
+			<xmax>194</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
