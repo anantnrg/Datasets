@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sunflowers</folder>
+	<filename>1297092593_e573c0a3d6.jpg</filename>
+	<path>I:\FlowerDatset\sunflowers\1297092593_e573c0a3d6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>39</ymin>
+			<xmax>436</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
