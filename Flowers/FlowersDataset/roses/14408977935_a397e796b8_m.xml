@@ -1,0 +1,26 @@
+<annotation>
+	<folder>roses</folder>
+	<filename>14408977935_a397e796b8_m.jpg</filename>
+	<path>I:\FlowerDatset\roses\14408977935_a397e796b8_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>76</ymin>
+			<xmax>175</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
